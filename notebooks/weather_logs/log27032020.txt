@@ -1,0 +1,1508 @@
+
+collecting for 1 location nan, Thailand
+https://api.aerisapi.com/observations/summary/closest?p=15.0,101.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 2 location nan, Japan
+https://api.aerisapi.com/observations/summary/closest?p=36.0,138.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 3 location nan, Singapore
+https://api.aerisapi.com/observations/summary/closest?p=1.2833,103.8333&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 4 location nan, Nepal
+https://api.aerisapi.com/observations/summary/closest?p=28.1667,84.25&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 5 location nan, Malaysia
+https://api.aerisapi.com/observations/summary/closest?p=2.5,112.5&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 6 location British Columbia, Canada
+https://api.aerisapi.com/observations/summary/closest?p=49.2827,-123.1207&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 7 location New South Wales, Australia
+https://api.aerisapi.com/observations/summary/closest?p=-33.8688,151.2093&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 8 location Victoria, Australia
+https://api.aerisapi.com/observations/summary/closest?p=-37.8136,144.9631&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 9 location Queensland, Australia
+https://api.aerisapi.com/observations/summary/closest?p=-28.0167,153.4&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 10 location nan, Cambodia
+https://api.aerisapi.com/observations/summary/closest?p=11.55,104.9167&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 11 location nan, Sri Lanka
+https://api.aerisapi.com/observations/summary/closest?p=7.0,81.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 12 location nan, Germany
+https://api.aerisapi.com/observations/summary/closest?p=51.0,9.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 13 location nan, Finland
+https://api.aerisapi.com/observations/summary/closest?p=64.0,26.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 14 location nan, United Arab Emirates
+https://api.aerisapi.com/observations/summary/closest?p=24.0,54.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 15 location nan, Philippines
+https://api.aerisapi.com/observations/summary/closest?p=13.0,122.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 16 location nan, India
+https://api.aerisapi.com/observations/summary/closest?p=21.0,78.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 17 location nan, Italy
+https://api.aerisapi.com/observations/summary/closest?p=43.0,12.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 18 location nan, Sweden
+https://api.aerisapi.com/observations/summary/closest?p=63.0,16.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 19 location nan, Spain
+https://api.aerisapi.com/observations/summary/closest?p=40.0,-4.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 20 location South Australia, Australia
+https://api.aerisapi.com/observations/summary/closest?p=-34.9285,138.6007&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 21 location nan, Belgium
+https://api.aerisapi.com/observations/summary/closest?p=50.8333,4.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 22 location nan, Egypt
+https://api.aerisapi.com/observations/summary/closest?p=26.0,30.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 23 location Diamond Princess, Diamond Princess
+https://api.aerisapi.com/observations/summary/closest?p=35.4437,139.638&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 24 location nan, Lebanon
+https://api.aerisapi.com/observations/summary/closest?p=33.8547,35.8623&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 25 location nan, Iraq
+https://api.aerisapi.com/observations/summary/closest?p=33.0,44.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 26 location nan, Oman
+https://api.aerisapi.com/observations/summary/closest?p=21.0,57.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 27 location nan, Afghanistan
+https://api.aerisapi.com/observations/summary/closest?p=33.0,65.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 28 location nan, Bahrain
+https://api.aerisapi.com/observations/summary/closest?p=26.0275,50.55&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 29 location nan, Kuwait
+https://api.aerisapi.com/observations/summary/closest?p=29.5,47.75&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 30 location nan, Algeria
+https://api.aerisapi.com/observations/summary/closest?p=28.0339,1.6596&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 31 location nan, Croatia
+https://api.aerisapi.com/observations/summary/closest?p=45.1,15.2&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 32 location nan, Switzerland
+https://api.aerisapi.com/observations/summary/closest?p=46.8182,8.2275&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 33 location nan, Austria
+https://api.aerisapi.com/observations/summary/closest?p=47.5162,14.5501&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 34 location nan, Israel
+https://api.aerisapi.com/observations/summary/closest?p=31.0,35.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 35 location nan, Pakistan
+https://api.aerisapi.com/observations/summary/closest?p=30.3753,69.3451&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 36 location nan, Brazil
+https://api.aerisapi.com/observations/summary/closest?p=-14.235,-51.9253&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 37 location nan, Georgia
+https://api.aerisapi.com/observations/summary/closest?p=42.3154,43.3569&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 38 location nan, Greece
+https://api.aerisapi.com/observations/summary/closest?p=39.0742,21.8243&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 39 location nan, North Macedonia
+https://api.aerisapi.com/observations/summary/closest?p=41.6086,21.7453&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 40 location nan, Norway
+https://api.aerisapi.com/observations/summary/closest?p=60.472,8.4689&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 41 location nan, Romania
+https://api.aerisapi.com/observations/summary/closest?p=45.9432,24.9668&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 42 location nan, Estonia
+https://api.aerisapi.com/observations/summary/closest?p=58.5953,25.0136&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 43 location nan, San Marino
+https://api.aerisapi.com/observations/summary/closest?p=43.9424,12.4578&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 44 location nan, Belarus
+https://api.aerisapi.com/observations/summary/closest?p=53.7098,27.9534&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 45 location nan, Iceland
+https://api.aerisapi.com/observations/summary/closest?p=64.9631,-19.0208&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 46 location nan, Lithuania
+https://api.aerisapi.com/observations/summary/closest?p=55.1694,23.8813&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 47 location nan, Mexico
+https://api.aerisapi.com/observations/summary/closest?p=23.6345,-102.5528&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 48 location nan, New Zealand
+https://api.aerisapi.com/observations/summary/closest?p=-40.9006,174.886&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 49 location nan, Nigeria
+https://api.aerisapi.com/observations/summary/closest?p=9.082,8.6753&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 50 location Western Australia, Australia
+https://api.aerisapi.com/observations/summary/closest?p=-31.9505,115.8605&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 51 location nan, Ireland
+https://api.aerisapi.com/observations/summary/closest?p=53.1424,-7.6921&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 52 location nan, Luxembourg
+https://api.aerisapi.com/observations/summary/closest?p=49.8153,6.1296&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 53 location nan, Monaco
+https://api.aerisapi.com/observations/summary/closest?p=43.7333,7.4167&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 54 location nan, Qatar
+https://api.aerisapi.com/observations/summary/closest?p=25.3548,51.1839&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 55 location nan, Ecuador
+https://api.aerisapi.com/observations/summary/closest?p=-1.8312,-78.1834&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 56 location nan, Azerbaijan
+https://api.aerisapi.com/observations/summary/closest?p=40.1431,47.5769&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 57 location nan, Armenia
+https://api.aerisapi.com/observations/summary/closest?p=40.0691,45.0382&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 58 location nan, Dominican Republic
+https://api.aerisapi.com/observations/summary/closest?p=18.7357,-70.1627&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 59 location nan, Indonesia
+https://api.aerisapi.com/observations/summary/closest?p=-0.7893,113.9213&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 60 location nan, Portugal
+https://api.aerisapi.com/observations/summary/closest?p=39.3999,-8.2245&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 61 location nan, Andorra
+https://api.aerisapi.com/observations/summary/closest?p=42.5063,1.5218&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 62 location Tasmania, Australia
+https://api.aerisapi.com/observations/summary/closest?p=-41.4545,145.9707&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 63 location nan, Latvia
+https://api.aerisapi.com/observations/summary/closest?p=56.8796,24.6032&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 64 location nan, Morocco
+https://api.aerisapi.com/observations/summary/closest?p=31.7917,-7.0926&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 65 location nan, Saudi Arabia
+https://api.aerisapi.com/observations/summary/closest?p=24.0,45.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 66 location nan, Senegal
+https://api.aerisapi.com/observations/summary/closest?p=14.4974,-14.4524&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 67 location nan, Argentina
+https://api.aerisapi.com/observations/summary/closest?p=-38.4161,-63.6167&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 68 location nan, Chile
+https://api.aerisapi.com/observations/summary/closest?p=-35.6751,-71.543&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 69 location nan, Jordan
+https://api.aerisapi.com/observations/summary/closest?p=31.24,36.51&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 70 location nan, Ukraine
+https://api.aerisapi.com/observations/summary/closest?p=48.3794,31.1656&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 71 location nan, Hungary
+https://api.aerisapi.com/observations/summary/closest?p=47.1625,19.5033&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 72 location Northern Territory, Australia
+https://api.aerisapi.com/observations/summary/closest?p=-12.4634,130.8456&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 73 location nan, Liechtenstein
+https://api.aerisapi.com/observations/summary/closest?p=47.14,9.55&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 74 location nan, Poland
+https://api.aerisapi.com/observations/summary/closest?p=51.9194,19.1451&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 75 location nan, Tunisia
+https://api.aerisapi.com/observations/summary/closest?p=34.0,9.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 76 location nan, Bosnia and Herzegovina
+https://api.aerisapi.com/observations/summary/closest?p=43.9159,17.6791&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 77 location nan, Slovenia
+https://api.aerisapi.com/observations/summary/closest?p=46.1512,14.9955&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 78 location nan, South Africa
+https://api.aerisapi.com/observations/summary/closest?p=-30.5595,22.9375&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 79 location nan, Bhutan
+https://api.aerisapi.com/observations/summary/closest?p=27.5142,90.4336&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 80 location nan, Cameroon
+https://api.aerisapi.com/observations/summary/closest?p=3.8480000000000003,11.5021&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 81 location nan, Colombia
+https://api.aerisapi.com/observations/summary/closest?p=4.5709,-74.2973&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 82 location nan, Costa Rica
+https://api.aerisapi.com/observations/summary/closest?p=9.7489,-83.7534&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 83 location nan, Peru
+https://api.aerisapi.com/observations/summary/closest?p=-9.19,-75.0152&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 84 location nan, Serbia
+https://api.aerisapi.com/observations/summary/closest?p=44.0165,21.0059&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 85 location nan, Slovakia
+https://api.aerisapi.com/observations/summary/closest?p=48.669,19.699&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 86 location nan, Togo
+https://api.aerisapi.com/observations/summary/closest?p=8.6195,0.8248&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 87 location nan, Malta
+https://api.aerisapi.com/observations/summary/closest?p=35.9375,14.3754&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 88 location nan, Martinique
+https://api.aerisapi.com/observations/summary/closest?p=14.6415,-61.0242&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 89 location nan, Bulgaria
+https://api.aerisapi.com/observations/summary/closest?p=42.7339,25.4858&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 90 location nan, Maldives
+https://api.aerisapi.com/observations/summary/closest?p=3.2028,73.2207&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 91 location nan, Bangladesh
+https://api.aerisapi.com/observations/summary/closest?p=23.685,90.3563&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 92 location nan, Paraguay
+https://api.aerisapi.com/observations/summary/closest?p=-23.4425,-58.4438&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 93 location Ontario, Canada
+https://api.aerisapi.com/observations/summary/closest?p=51.2538,-85.3232&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 94 location Alberta, Canada
+https://api.aerisapi.com/observations/summary/closest?p=53.9333,-116.5765&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 95 location Quebec, Canada
+https://api.aerisapi.com/observations/summary/closest?p=52.9399,-73.5491&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 96 location nan, Albania
+https://api.aerisapi.com/observations/summary/closest?p=41.1533,20.1683&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 97 location nan, Cyprus
+https://api.aerisapi.com/observations/summary/closest?p=35.1264,33.4299&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 98 location nan, Brunei
+https://api.aerisapi.com/observations/summary/closest?p=4.5353,114.7277&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 99 location Washington, US
+https://api.aerisapi.com/observations/summary/closest?p=47.4009,-121.4905&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 100 location New York, US
+https://api.aerisapi.com/observations/summary/closest?p=42.1657,-74.9481&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 101 location California, US
+https://api.aerisapi.com/observations/summary/closest?p=36.1162,-119.6816&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 102 location Massachusetts, US
+https://api.aerisapi.com/observations/summary/closest?p=42.2302,-71.5301&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 103 location Diamond Princess, Diamond Princess
+https://api.aerisapi.com/observations/summary/closest?p=35.4437,139.638&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 104 location Grand Princess, US
+https://api.aerisapi.com/observations/summary/closest?p=37.6489,-122.6655&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 105 location Georgia, US
+https://api.aerisapi.com/observations/summary/closest?p=33.0406,-83.6431&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 106 location Colorado, US
+https://api.aerisapi.com/observations/summary/closest?p=39.0598,-105.3111&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 107 location Florida, US
+https://api.aerisapi.com/observations/summary/closest?p=27.7663,-81.6868&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 108 location New Jersey, US
+https://api.aerisapi.com/observations/summary/closest?p=40.2989,-74.521&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 109 location Oregon, US
+https://api.aerisapi.com/observations/summary/closest?p=44.571999999999996,-122.0709&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 110 location Texas, US
+https://api.aerisapi.com/observations/summary/closest?p=31.0545,-97.5635&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 111 location Illinois, US
+https://api.aerisapi.com/observations/summary/closest?p=40.3495,-88.9861&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 112 location Pennsylvania, US
+https://api.aerisapi.com/observations/summary/closest?p=40.5908,-77.2098&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 113 location Iowa, US
+https://api.aerisapi.com/observations/summary/closest?p=42.0115,-93.2105&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 114 location Maryland, US
+https://api.aerisapi.com/observations/summary/closest?p=39.0639,-76.8021&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 115 location North Carolina, US
+https://api.aerisapi.com/observations/summary/closest?p=35.6301,-79.8064&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 116 location South Carolina, US
+https://api.aerisapi.com/observations/summary/closest?p=33.8569,-80.945&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 117 location Tennessee, US
+https://api.aerisapi.com/observations/summary/closest?p=35.7478,-86.6923&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 118 location Virginia, US
+https://api.aerisapi.com/observations/summary/closest?p=37.7693,-78.17&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 119 location Arizona, US
+https://api.aerisapi.com/observations/summary/closest?p=33.7298,-111.4312&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 120 location Indiana, US
+https://api.aerisapi.com/observations/summary/closest?p=39.8494,-86.2583&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 121 location Kentucky, US
+https://api.aerisapi.com/observations/summary/closest?p=37.6681,-84.6701&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 122 location District of Columbia, US
+https://api.aerisapi.com/observations/summary/closest?p=38.8974,-77.0268&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 123 location Nevada, US
+https://api.aerisapi.com/observations/summary/closest?p=38.3135,-117.0554&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 124 location New Hampshire, US
+https://api.aerisapi.com/observations/summary/closest?p=43.4525,-71.5639&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 125 location Minnesota, US
+https://api.aerisapi.com/observations/summary/closest?p=45.6945,-93.9002&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 126 location Nebraska, US
+https://api.aerisapi.com/observations/summary/closest?p=41.1254,-98.2681&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 127 location Ohio, US
+https://api.aerisapi.com/observations/summary/closest?p=40.3888,-82.7649&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 128 location Rhode Island, US
+https://api.aerisapi.com/observations/summary/closest?p=41.6809,-71.5118&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 129 location Wisconsin, US
+https://api.aerisapi.com/observations/summary/closest?p=44.2685,-89.6165&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 130 location Connecticut, US
+https://api.aerisapi.com/observations/summary/closest?p=41.5978,-72.7554&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 131 location Hawaii, US
+https://api.aerisapi.com/observations/summary/closest?p=21.0943,-157.4983&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 132 location Oklahoma, US
+https://api.aerisapi.com/observations/summary/closest?p=35.5653,-96.9289&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 133 location Utah, US
+https://api.aerisapi.com/observations/summary/closest?p=40.15,-111.8624&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 134 location nan, Burkina Faso
+https://api.aerisapi.com/observations/summary/closest?p=12.2383,-1.5616&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 135 location nan, Holy See
+https://api.aerisapi.com/observations/summary/closest?p=41.9029,12.4534&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 136 location nan, Mongolia
+https://api.aerisapi.com/observations/summary/closest?p=46.8625,103.8467&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 137 location nan, Panama
+https://api.aerisapi.com/observations/summary/closest?p=8.538,-80.7821&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 138 location Kansas, US
+https://api.aerisapi.com/observations/summary/closest?p=38.5266,-96.7265&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 139 location Louisiana, US
+https://api.aerisapi.com/observations/summary/closest?p=31.1695,-91.8678&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 140 location Missouri, US
+https://api.aerisapi.com/observations/summary/closest?p=38.4561,-92.2884&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 141 location Vermont, US
+https://api.aerisapi.com/observations/summary/closest?p=44.0459,-72.7107&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 142 location Alaska, US
+https://api.aerisapi.com/observations/summary/closest?p=61.3707,-152.4044&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 143 location Arkansas, US
+https://api.aerisapi.com/observations/summary/closest?p=34.9697,-92.3731&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 144 location Delaware, US
+https://api.aerisapi.com/observations/summary/closest?p=39.3185,-75.5071&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 145 location Idaho, US
+https://api.aerisapi.com/observations/summary/closest?p=44.2405,-114.4788&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 146 location Maine, US
+https://api.aerisapi.com/observations/summary/closest?p=44.6939,-69.3819&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 147 location Michigan, US
+https://api.aerisapi.com/observations/summary/closest?p=43.3266,-84.5361&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 148 location Mississippi, US
+https://api.aerisapi.com/observations/summary/closest?p=32.7416,-89.6787&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 149 location Montana, US
+https://api.aerisapi.com/observations/summary/closest?p=46.9219,-110.4544&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 150 location New Mexico, US
+https://api.aerisapi.com/observations/summary/closest?p=34.8405,-106.2485&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 151 location North Dakota, US
+https://api.aerisapi.com/observations/summary/closest?p=47.5289,-99.78399999999999&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 152 location South Dakota, US
+https://api.aerisapi.com/observations/summary/closest?p=44.2998,-99.4388&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 153 location West Virginia, US
+https://api.aerisapi.com/observations/summary/closest?p=38.4912,-80.9545&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 154 location Wyoming, US
+https://api.aerisapi.com/observations/summary/closest?p=42.756,-107.3025&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 155 location Hubei, China
+https://api.aerisapi.com/observations/summary/closest?p=30.9756,112.2707&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 156 location nan, Iran
+https://api.aerisapi.com/observations/summary/closest?p=32.0,53.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 157 location nan, Korea, South
+https://api.aerisapi.com/observations/summary/closest?p=36.0,128.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 158 location France, France
+https://api.aerisapi.com/observations/summary/closest?p=46.2276,2.2137&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 159 location Guangdong, China
+https://api.aerisapi.com/observations/summary/closest?p=23.3417,113.4244&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 160 location Henan, China
+https://api.aerisapi.com/observations/summary/closest?p=33.882,113.61399999999999&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 161 location Zhejiang, China
+https://api.aerisapi.com/observations/summary/closest?p=29.1832,120.0934&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 162 location Hunan, China
+https://api.aerisapi.com/observations/summary/closest?p=27.6104,111.7088&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 163 location Anhui, China
+https://api.aerisapi.com/observations/summary/closest?p=31.8257,117.2264&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 164 location Jiangxi, China
+https://api.aerisapi.com/observations/summary/closest?p=27.614,115.7221&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 165 location Shandong, China
+https://api.aerisapi.com/observations/summary/closest?p=36.3427,118.1498&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 166 location Diamond Princess, Diamond Princess
+https://api.aerisapi.com/observations/summary/closest?p=35.4437,139.638&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 167 location Jiangsu, China
+https://api.aerisapi.com/observations/summary/closest?p=32.9711,119.455&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 168 location Chongqing, China
+https://api.aerisapi.com/observations/summary/closest?p=30.0572,107.874&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 169 location Sichuan, China
+https://api.aerisapi.com/observations/summary/closest?p=30.6171,102.7103&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 170 location Heilongjiang, China
+https://api.aerisapi.com/observations/summary/closest?p=47.861999999999995,127.7615&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 171 location Denmark, Denmark
+https://api.aerisapi.com/observations/summary/closest?p=56.2639,9.5018&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 172 location Beijing, China
+https://api.aerisapi.com/observations/summary/closest?p=40.1824,116.4142&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 173 location Shanghai, China
+https://api.aerisapi.com/observations/summary/closest?p=31.201999999999998,121.4491&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 174 location Hebei, China
+https://api.aerisapi.com/observations/summary/closest?p=39.549,116.1306&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 175 location Fujian, China
+https://api.aerisapi.com/observations/summary/closest?p=26.0789,117.9874&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 176 location Guangxi, China
+https://api.aerisapi.com/observations/summary/closest?p=23.8298,108.7881&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 177 location Shaanxi, China
+https://api.aerisapi.com/observations/summary/closest?p=35.1917,108.8701&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 178 location Yunnan, China
+https://api.aerisapi.com/observations/summary/closest?p=24.974,101.48700000000001&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 179 location Hainan, China
+https://api.aerisapi.com/observations/summary/closest?p=19.1959,109.7453&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 180 location Guizhou, China
+https://api.aerisapi.com/observations/summary/closest?p=26.8154,106.8748&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 181 location Tianjin, China
+https://api.aerisapi.com/observations/summary/closest?p=39.3054,117.323&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 182 location Shanxi, China
+https://api.aerisapi.com/observations/summary/closest?p=37.5777,112.2922&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 183 location Gansu, China
+https://api.aerisapi.com/observations/summary/closest?p=37.8099,101.0583&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 184 location Hong Kong, China
+https://api.aerisapi.com/observations/summary/closest?p=22.3,114.2&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 185 location Liaoning, China
+https://api.aerisapi.com/observations/summary/closest?p=41.2956,122.6085&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 186 location Jilin, China
+https://api.aerisapi.com/observations/summary/closest?p=43.6661,126.1923&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 187 location nan, Czechia
+https://api.aerisapi.com/observations/summary/closest?p=49.8175,15.472999999999999&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 188 location Xinjiang, China
+https://api.aerisapi.com/observations/summary/closest?p=41.1129,85.2401&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 189 location Inner Mongolia, China
+https://api.aerisapi.com/observations/summary/closest?p=44.0935,113.9448&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 190 location Ningxia, China
+https://api.aerisapi.com/observations/summary/closest?p=37.2692,106.1655&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 191 location nan, Taiwan*
+https://api.aerisapi.com/observations/summary/closest?p=23.7,121.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 192 location nan, Vietnam
+https://api.aerisapi.com/observations/summary/closest?p=16.0,108.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 193 location nan, Russia
+https://api.aerisapi.com/observations/summary/closest?p=60.0,90.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 194 location Qinghai, China
+https://api.aerisapi.com/observations/summary/closest?p=35.7452,95.9956&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+successNo data found for China, Qinghai at 03/26/2020
+{'code': 'warn_invalid_param', 'description': 'Invalid from parameter has been adjusted.'}
+
+collecting for 195 location Macau, China
+https://api.aerisapi.com/observations/summary/closest?p=22.1667,113.55&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 196 location nan, Moldova
+https://api.aerisapi.com/observations/summary/closest?p=47.4116,28.3699&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 197 location nan, Bolivia
+https://api.aerisapi.com/observations/summary/closest?p=-16.2902,-63.5887&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 198 location Faroe Islands, Denmark
+https://api.aerisapi.com/observations/summary/closest?p=61.8926,-6.9118&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 199 location St Martin, France
+https://api.aerisapi.com/observations/summary/closest?p=18.0708,-63.0501&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 200 location nan, Honduras
+https://api.aerisapi.com/observations/summary/closest?p=15.2,-86.2419&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 201 location Channel Islands, United Kingdom
+https://api.aerisapi.com/observations/summary/closest?p=49.3723,-2.3644&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 202 location New Brunswick, Canada
+https://api.aerisapi.com/observations/summary/closest?p=46.5653,-66.4619&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 203 location Tibet, China
+https://api.aerisapi.com/observations/summary/closest?p=31.6927,88.0924&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 204 location nan, Congo (Kinshasa)
+https://api.aerisapi.com/observations/summary/closest?p=-4.0383,21.7587&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 205 location nan, Cote d'Ivoire
+https://api.aerisapi.com/observations/summary/closest?p=7.54,-5.5471&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 206 location Saint Barthelemy, France
+https://api.aerisapi.com/observations/summary/closest?p=17.9,-62.8333&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 207 location nan, Jamaica
+https://api.aerisapi.com/observations/summary/closest?p=18.1096,-77.2975&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 208 location nan, Turkey
+https://api.aerisapi.com/observations/summary/closest?p=38.9637,35.2433&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 209 location Gibraltar, United Kingdom
+https://api.aerisapi.com/observations/summary/closest?p=36.1408,-5.3536&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 210 location Kitsap, WA, US
+https://api.aerisapi.com/observations/summary/closest?p=47.6477,-122.6413&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 211 location Solano, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=38.3105,-121.9018&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 212 location Santa Cruz, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=37.0454,-121.958&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 213 location Napa, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=38.5025,-122.2654&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 214 location Ventura, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=34.3705,-119.1391&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 215 location Worcester, MA, US
+https://api.aerisapi.com/observations/summary/closest?p=42.4097,-71.8571&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 216 location Gwinnett, GA, US
+https://api.aerisapi.com/observations/summary/closest?p=33.9191,-84.0167&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 217 location DeKalb, GA, US
+https://api.aerisapi.com/observations/summary/closest?p=33.7956,-84.2279&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 218 location Floyd, GA, US
+https://api.aerisapi.com/observations/summary/closest?p=37.5455,-82.7779&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 219 location Fayette, GA, US
+https://api.aerisapi.com/observations/summary/closest?p=33.4502,-84.4803&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 220 location Gregg, TX, US
+https://api.aerisapi.com/observations/summary/closest?p=32.4893,-94.8521&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 221 location Monmouth, NJ, US
+https://api.aerisapi.com/observations/summary/closest?p=40.2589,-74.124&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 222 location Burlington, NJ, US
+https://api.aerisapi.com/observations/summary/closest?p=40.0712,-74.8649&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 223 location Camden, NJ, US
+https://api.aerisapi.com/observations/summary/closest?p=39.9259,-75.1196&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 224 location Passaic, NJ, US
+https://api.aerisapi.com/observations/summary/closest?p=40.8568,-74.1285&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 225 location Union, NJ, US
+https://api.aerisapi.com/observations/summary/closest?p=40.6976,-74.2632&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 226 location Eagle, CO, US
+https://api.aerisapi.com/observations/summary/closest?p=39.6553,-106.8287&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 227 location Larimer, CO, US
+https://api.aerisapi.com/observations/summary/closest?p=40.6956,-105.5943&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 228 location Arapahoe, CO, US
+https://api.aerisapi.com/observations/summary/closest?p=39.6203,-104.3326&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 229 location Gunnison, CO, US
+https://api.aerisapi.com/observations/summary/closest?p=38.5458,-106.9253&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 230 location Kane, IL, US
+https://api.aerisapi.com/observations/summary/closest?p=41.9879,-88.4016&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 231 location Monroe, PA, US
+https://api.aerisapi.com/observations/summary/closest?p=41.0458,-75.2479&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 232 location Philadelphia, PA, US
+https://api.aerisapi.com/observations/summary/closest?p=39.9526,-75.1652&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 233 location Norfolk, VA, US
+https://api.aerisapi.com/observations/summary/closest?p=36.8508,-76.2859&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 234 location Arlington, VA, US
+https://api.aerisapi.com/observations/summary/closest?p=38.8816,-77.09100000000001&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 235 location Spotsylvania, VA, US
+https://api.aerisapi.com/observations/summary/closest?p=38.2042,-77.6078&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 236 location Loudoun, VA, US
+https://api.aerisapi.com/observations/summary/closest?p=39.0768,-77.6536&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 237 location Prince George's, MD, US
+https://api.aerisapi.com/observations/summary/closest?p=38.7849,-76.8721&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 238 location Pottawattamie, IA, US
+https://api.aerisapi.com/observations/summary/closest?p=41.3912,-95.4778&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 239 location Camden, NC, US
+https://api.aerisapi.com/observations/summary/closest?p=34.2465,-80.607&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 240 location Pima, AZ, US
+https://api.aerisapi.com/observations/summary/closest?p=32.0575,-111.6661&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 241 location Noble, IN, US
+https://api.aerisapi.com/observations/summary/closest?p=41.4277,-85.355&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 242 location Adams, IN, US
+https://api.aerisapi.com/observations/summary/closest?p=39.8522,-77.2865&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 243 location Boone, IN, US
+https://api.aerisapi.com/observations/summary/closest?p=40.0106,-86.4997&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 244 location Dane, WI, US
+https://api.aerisapi.com/observations/summary/closest?p=43.0186,-89.5498&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 245 location Pierce, WI, US
+https://api.aerisapi.com/observations/summary/closest?p=44.7509,-92.3814&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 246 location Cuyahoga, OH, US
+https://api.aerisapi.com/observations/summary/closest?p=41.4339,-81.6758&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 247 location Weber, UT, US
+https://api.aerisapi.com/observations/summary/closest?p=41.2603,-111.9522&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 248 location Bennington County, VT, US
+https://api.aerisapi.com/observations/summary/closest?p=43.0279,-73.135&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 249 location Carver County, MN, US
+https://api.aerisapi.com/observations/summary/closest?p=44.8254,-93.7842&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 250 location Charlotte County, FL, US
+https://api.aerisapi.com/observations/summary/closest?p=26.8946,-81.9098&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 251 location Cherokee County, GA, US
+https://api.aerisapi.com/observations/summary/closest?p=34.2515,-84.4803&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 252 location Collin County, TX, US
+https://api.aerisapi.com/observations/summary/closest?p=33.1795,-96.493&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 253 location Jefferson County, KY, US
+https://api.aerisapi.com/observations/summary/closest?p=38.1938,-85.6435&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 254 location Jefferson Parish, LA, US
+https://api.aerisapi.com/observations/summary/closest?p=29.6499,-90.1121&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 255 location Shasta County, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=40.7909,-121.8474&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 256 location Spartanburg County, SC, US
+https://api.aerisapi.com/observations/summary/closest?p=34.8606,-81.9535&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 257 location Harrison County, KY, US
+https://api.aerisapi.com/observations/summary/closest?p=38.4333,-84.3542&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 258 location Johnson County, IA, US
+https://api.aerisapi.com/observations/summary/closest?p=41.6699,-91.5984&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 259 location Berkshire County, MA, US
+https://api.aerisapi.com/observations/summary/closest?p=42.3118,-73.1822&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 260 location Davidson County, TN, US
+https://api.aerisapi.com/observations/summary/closest?p=36.1343,-86.822&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 261 location Douglas County, OR, US
+https://api.aerisapi.com/observations/summary/closest?p=43.1261,-123.2492&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 262 location Fresno County, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=36.9859,-119.2321&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 263 location Harford County, MD, US
+https://api.aerisapi.com/observations/summary/closest?p=39.5839,-76.3637&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 264 location Hendricks County, IN, US
+https://api.aerisapi.com/observations/summary/closest?p=39.8065,-86.5401&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 265 location Hudson County, NJ, US
+https://api.aerisapi.com/observations/summary/closest?p=40.7453,-74.0535&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 266 location Johnson County, KS, US
+https://api.aerisapi.com/observations/summary/closest?p=38.8454,-94.8521&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 267 location Kittitas County, WA, US
+https://api.aerisapi.com/observations/summary/closest?p=47.175,-120.9319&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 268 location Manatee County, FL, US
+https://api.aerisapi.com/observations/summary/closest?p=27.4799,-82.3452&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 269 location Marion County, OR, US
+https://api.aerisapi.com/observations/summary/closest?p=44.8446,-122.5927&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 270 location Okaloosa County, FL, US
+https://api.aerisapi.com/observations/summary/closest?p=30.5773,-86.6611&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 271 location Polk County, GA, US
+https://api.aerisapi.com/observations/summary/closest?p=34.0132,-85.1479&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 272 location Riverside County, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=33.9533,-117.3961&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 273 location Shelby County, TN, US
+https://api.aerisapi.com/observations/summary/closest?p=35.1269,-89.9253&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 274 location St. Louis County, MO, US
+https://api.aerisapi.com/observations/summary/closest?p=38.6103,-90.4125&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 275 location Suffolk County, NY, US
+https://api.aerisapi.com/observations/summary/closest?p=40.9849,-72.6151&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 276 location Ulster County, NY, US
+https://api.aerisapi.com/observations/summary/closest?p=41.8586,-74.3118&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 277 location Volusia County, FL, US
+https://api.aerisapi.com/observations/summary/closest?p=29.028000000000002,-81.0755&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 278 location Fairfax County, VA, US
+https://api.aerisapi.com/observations/summary/closest?p=38.9085,-77.2405&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 279 location Rockingham County, NH, US
+https://api.aerisapi.com/observations/summary/closest?p=42.9931,-71.0498&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 280 location Washington, D.C., US
+https://api.aerisapi.com/observations/summary/closest?p=38.9072,-77.0369&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 281 location Montgomery County, PA, US
+https://api.aerisapi.com/observations/summary/closest?p=40.229,-75.3879&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 282 location Alameda County, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=37.6017,-121.7195&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 283 location Broward County, FL, US
+https://api.aerisapi.com/observations/summary/closest?p=26.1901,-80.3659&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 284 location Lee County, FL, US
+https://api.aerisapi.com/observations/summary/closest?p=26.663,-81.9535&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 285 location Pinal County, AZ, US
+https://api.aerisapi.com/observations/summary/closest?p=32.8162,-111.2845&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 286 location Rockland County, NY, US
+https://api.aerisapi.com/observations/summary/closest?p=41.1489,-73.983&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 287 location Saratoga County, NY, US
+https://api.aerisapi.com/observations/summary/closest?p=43.0324,-73.936&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 288 location Charleston County, SC, US
+https://api.aerisapi.com/observations/summary/closest?p=32.7957,-79.7848&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 289 location Clark County, WA, US
+https://api.aerisapi.com/observations/summary/closest?p=45.7466,-122.5194&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 290 location Cobb County, GA, US
+https://api.aerisapi.com/observations/summary/closest?p=33.8999,-84.5641&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 291 location Davis County, UT, US
+https://api.aerisapi.com/observations/summary/closest?p=40.9629,-112.0953&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 292 location El Paso County, CO, US
+https://api.aerisapi.com/observations/summary/closest?p=38.9108,-104.4723&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 293 location Honolulu County, HI, US
+https://api.aerisapi.com/observations/summary/closest?p=21.307,-157.8584&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 294 location Jackson County, OR , US
+https://api.aerisapi.com/observations/summary/closest?p=42.3345,-122.7647&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 295 location Jefferson County, WA, US
+https://api.aerisapi.com/observations/summary/closest?p=47.7425,-123.304&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 296 location Kershaw County, SC, US
+https://api.aerisapi.com/observations/summary/closest?p=34.3672,-80.5883&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 297 location Klamath County, OR, US
+https://api.aerisapi.com/observations/summary/closest?p=42.6953,-121.6142&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 298 location Madera County, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=37.2519,-119.6963&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 299 location Pierce County, WA, US
+https://api.aerisapi.com/observations/summary/closest?p=47.0676,-122.1295&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 300 location Tulsa County, OK, US
+https://api.aerisapi.com/observations/summary/closest?p=36.1593,-95.941&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 301 location Douglas County, CO, US
+https://api.aerisapi.com/observations/summary/closest?p=39.2587,-104.9389&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 302 location Providence County, RI, US
+https://api.aerisapi.com/observations/summary/closest?p=41.8882,-71.4774&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 303 location Chatham County, NC, US
+https://api.aerisapi.com/observations/summary/closest?p=35.7211,-79.1781&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 304 location Delaware County, PA, US
+https://api.aerisapi.com/observations/summary/closest?p=39.9078,-75.3879&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 305 location Douglas County, NE, US
+https://api.aerisapi.com/observations/summary/closest?p=41.3148,-96.1951&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 306 location Fayette County, KY, US
+https://api.aerisapi.com/observations/summary/closest?p=38.0606,-84.4803&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 307 location Marion County, IN, US
+https://api.aerisapi.com/observations/summary/closest?p=39.8362,-86.1752&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 308 location Middlesex County, MA, US
+https://api.aerisapi.com/observations/summary/closest?p=42.4672,-71.2874&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 309 location Nassau County, NY, US
+https://api.aerisapi.com/observations/summary/closest?p=40.6546,-73.5594&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 310 location Ramsey County, MN, US
+https://api.aerisapi.com/observations/summary/closest?p=44.9964,-93.0616&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 311 location Washoe County, NV, US
+https://api.aerisapi.com/observations/summary/closest?p=40.5608,-119.6035&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 312 location Wayne County, PA, US
+https://api.aerisapi.com/observations/summary/closest?p=41.6739,-75.2479&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 313 location Yolo County, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=38.7646,-121.9018&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 314 location Santa Clara County, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=37.3541,-121.9552&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 315 location Clark County, NV, US
+https://api.aerisapi.com/observations/summary/closest?p=36.0796,-115.094&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 316 location Fort Bend County, TX, US
+https://api.aerisapi.com/observations/summary/closest?p=29.5693,-95.8143&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 317 location Grant County, WA, US
+https://api.aerisapi.com/observations/summary/closest?p=47.1981,-119.3732&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 318 location Santa Rosa County, FL, US
+https://api.aerisapi.com/observations/summary/closest?p=30.769000000000002,-86.9824&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 319 location Williamson County, TN, US
+https://api.aerisapi.com/observations/summary/closest?p=35.9179,-86.8622&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 320 location New York County, NY, US
+https://api.aerisapi.com/observations/summary/closest?p=40.7128,-74.006&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 321 location Montgomery County, MD, US
+https://api.aerisapi.com/observations/summary/closest?p=39.1547,-77.2405&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 322 location Suffolk County, MA, US
+https://api.aerisapi.com/observations/summary/closest?p=42.3601,-71.0589&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 323 location Denver County, CO, US
+https://api.aerisapi.com/observations/summary/closest?p=39.7392,-104.9903&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 324 location Summit County, CO, US
+https://api.aerisapi.com/observations/summary/closest?p=39.5912,-106.064&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 325 location Bergen County, NJ, US
+https://api.aerisapi.com/observations/summary/closest?p=40.9263,-74.077&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 326 location Harris County, TX, US
+https://api.aerisapi.com/observations/summary/closest?p=29.7752,-95.3103&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 327 location San Francisco County, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=37.7749,-122.4194&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 328 location Contra Costa County, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=37.8534,-121.9018&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 329 location Orange County, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=33.7879,-117.8531&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 330 location Norfolk County, MA, US
+https://api.aerisapi.com/observations/summary/closest?p=42.1767,-71.1449&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 331 location Maricopa County, AZ, US
+https://api.aerisapi.com/observations/summary/closest?p=33.2918,-112.4291&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 332 location Wake County, NC, US
+https://api.aerisapi.com/observations/summary/closest?p=35.8032,-78.5661&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 333 location Westchester County, NY, US
+https://api.aerisapi.com/observations/summary/closest?p=41.122,-73.7949&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 334 location Grafton County, NH, US
+https://api.aerisapi.com/observations/summary/closest?p=43.9088,-71.82600000000001&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 335 location Hillsborough, FL, US
+https://api.aerisapi.com/observations/summary/closest?p=27.9904,-82.3018&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 336 location Placer County, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=39.0916,-120.8039&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 337 location San Mateo, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=37.563,-122.3255&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 338 location Sonoma County, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=38.578,-122.9888&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 339 location Umatilla, OR, US
+https://api.aerisapi.com/observations/summary/closest?p=45.775,-118.7606&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 340 location Fulton County, GA, US
+https://api.aerisapi.com/observations/summary/closest?p=33.8034,-84.3963&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 341 location Washington County, OR, US
+https://api.aerisapi.com/observations/summary/closest?p=45.547,-123.1386&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 342 location Snohomish County, WA, US
+https://api.aerisapi.com/observations/summary/closest?p=48.033,-121.8339&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 343 location Humboldt County, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=40.745,-123.8695&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 344 location Sacramento County, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=38.4747,-121.3542&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 345 location San Diego County, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=32.7157,-117.1611&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 346 location San Benito, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=36.5761,-120.9876&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 347 location Los Angeles, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=34.0522,-118.2437&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 348 location King County, WA, US
+https://api.aerisapi.com/observations/summary/closest?p=47.6062,-122.3321&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 349 location Cook County, IL, US
+https://api.aerisapi.com/observations/summary/closest?p=41.7377,-87.6976&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 350 location Skagit, WA, US
+https://api.aerisapi.com/observations/summary/closest?p=48.4242,-121.7114&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 351 location Thurston, WA, US
+https://api.aerisapi.com/observations/summary/closest?p=46.8646,-122.7696&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 352 location Island, WA, US
+https://api.aerisapi.com/observations/summary/closest?p=48.1976,-122.5795&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 353 location Whatcom, WA, US
+https://api.aerisapi.com/observations/summary/closest?p=48.8787,-121.9719&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 354 location Marin, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=38.0834,-122.7633&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 355 location Calaveras, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=38.196,-120.6805&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 356 location Stanislaus, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=37.5091,-120.9876&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 357 location San Joaquin, CA, US
+https://api.aerisapi.com/observations/summary/closest?p=36.6066,-120.189&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 358 location Essex, MA, US
+https://api.aerisapi.com/observations/summary/closest?p=42.632,-70.7829&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 359 location Charlton, GA, US
+https://api.aerisapi.com/observations/summary/closest?p=30.7917,-82.0843&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 360 location Collier, FL, US
+https://api.aerisapi.com/observations/summary/closest?p=26.07,-81.4279&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 361 location Pinellas, FL, US
+https://api.aerisapi.com/observations/summary/closest?p=27.8764,-82.7779&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 362 location Alachua, FL, US
+https://api.aerisapi.com/observations/summary/closest?p=29.7938,-82.4944&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 363 location Nassau, FL, US
+https://api.aerisapi.com/observations/summary/closest?p=30.5927,-81.8224&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 364 location Pasco, FL, US
+https://api.aerisapi.com/observations/summary/closest?p=28.3232,-82.4319&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 365 location Dallas, TX, US
+https://api.aerisapi.com/observations/summary/closest?p=32.7767,-96.79700000000001&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 366 location Tarrant, TX, US
+https://api.aerisapi.com/observations/summary/closest?p=32.7732,-97.3517&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 367 location Montgomery, TX, US
+https://api.aerisapi.com/observations/summary/closest?p=30.3883,-95.6963&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 368 location Middlesex, NJ, US
+https://api.aerisapi.com/observations/summary/closest?p=40.5726,-74.4927&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 369 location Jefferson, CO, US
+https://api.aerisapi.com/observations/summary/closest?p=39.58,-105.2663&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 370 location Multnomah, OR, US
+https://api.aerisapi.com/observations/summary/closest?p=45.5146,-122.5863&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 371 location Polk, OR, US
+https://api.aerisapi.com/observations/summary/closest?p=44.9267,-123.4919&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 372 location Deschutes, OR, US
+https://api.aerisapi.com/observations/summary/closest?p=43.8325,-121.2617&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 373 location McHenry, IL, US
+https://api.aerisapi.com/observations/summary/closest?p=42.3334,-88.2668&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 374 location Lake, IL, US
+https://api.aerisapi.com/observations/summary/closest?p=42.3689,-87.8272&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 375 location Bucks, PA, US
+https://api.aerisapi.com/observations/summary/closest?p=40.4108,-75.2479&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 376 location Hanover, VA, US
+https://api.aerisapi.com/observations/summary/closest?p=37.7772,-77.5161&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 377 location Lancaster, SC, US
+https://api.aerisapi.com/observations/summary/closest?p=34.7253,-80.6771&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 378 location Sullivan, TN, US
+https://api.aerisapi.com/observations/summary/closest?p=36.4933,-82.3452&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 379 location Johnson, IN, US
+https://api.aerisapi.com/observations/summary/closest?p=39.4638,-86.1345&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 380 location Howard, IN, US
+https://api.aerisapi.com/observations/summary/closest?p=40.4483,-86.1345&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 381 location St. Joseph, IN, US
+https://api.aerisapi.com/observations/summary/closest?p=41.6228,-86.3377&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 382 location Knox, NE, US
+https://api.aerisapi.com/observations/summary/closest?p=42.6712,-97.8722&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 383 location Stark, OH, US
+https://api.aerisapi.com/observations/summary/closest?p=40.8685,-81.2519&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 384 location Anoka, MN, US
+https://api.aerisapi.com/observations/summary/closest?p=45.3293,-93.2197&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 385 location Olmsted, MN, US
+https://api.aerisapi.com/observations/summary/closest?p=43.9952,-92.3814&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 386 location Summit, UT, US
+https://api.aerisapi.com/observations/summary/closest?p=40.8298,-110.9984&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 387 location Fairfield, CT, US
+https://api.aerisapi.com/observations/summary/closest?p=41.256,-73.3709&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 388 location Litchfield, CT, US
+https://api.aerisapi.com/observations/summary/closest?p=41.7866,-73.2765&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 389 location Orleans, LA, US
+https://api.aerisapi.com/observations/summary/closest?p=29.9511,-90.0715&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 390 location Pennington, SD, US
+https://api.aerisapi.com/observations/summary/closest?p=43.8901,-102.2548&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 391 location Beadle, SD, US
+https://api.aerisapi.com/observations/summary/closest?p=44.4797,-98.2213&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 392 location Charles Mix, SD, US
+https://api.aerisapi.com/observations/summary/closest?p=43.0985,-98.3965&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 393 location Davison, SD, US
+https://api.aerisapi.com/observations/summary/closest?p=43.7242,-98.2213&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 394 location Minnehaha, SD, US
+https://api.aerisapi.com/observations/summary/closest?p=43.6632,-96.8351&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 395 location Bon Homme, SD, US
+https://api.aerisapi.com/observations/summary/closest?p=42.9815,-97.8722&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 396 location Socorro, NM, US
+https://api.aerisapi.com/observations/summary/closest?p=33.8837,-106.7235&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 397 location Bernalillo, NM, US
+https://api.aerisapi.com/observations/summary/closest?p=35.0178,-106.6291&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 398 location Oakland, MI, US
+https://api.aerisapi.com/observations/summary/closest?p=42.5922,-83.3362&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 399 location Wayne, MI, US
+https://api.aerisapi.com/observations/summary/closest?p=42.2791,-83.3362&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 400 location New Castle, DE, US
+https://api.aerisapi.com/observations/summary/closest?p=39.5393,-75.6674&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 401 location nan, Cuba
+https://api.aerisapi.com/observations/summary/closest?p=22.0,-80.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 402 location nan, Guyana
+https://api.aerisapi.com/observations/summary/closest?p=5.0,-58.75&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 403 location Australian Capital Territory, Australia
+https://api.aerisapi.com/observations/summary/closest?p=-35.4735,149.0124&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 404 location United Kingdom, United Kingdom
+https://api.aerisapi.com/observations/summary/closest?p=55.3781,-3.4360000000000004&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 405 location nan, Kazakhstan
+https://api.aerisapi.com/observations/summary/closest?p=48.0196,66.9237&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 406 location French Polynesia, France
+https://api.aerisapi.com/observations/summary/closest?p=-17.6797,149.4068&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 407 location Manitoba, Canada
+https://api.aerisapi.com/observations/summary/closest?p=53.7609,-98.8139&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 408 location Saskatchewan, Canada
+https://api.aerisapi.com/observations/summary/closest?p=52.9399,-106.4509&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 409 location nan, Ethiopia
+https://api.aerisapi.com/observations/summary/closest?p=9.145,40.4897&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 410 location nan, Sudan
+https://api.aerisapi.com/observations/summary/closest?p=12.8628,30.2176&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 411 location nan, Guinea
+https://api.aerisapi.com/observations/summary/closest?p=9.9456,-9.6966&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 412 location Grand Princess, US
+https://api.aerisapi.com/observations/summary/closest?p=37.6489,-122.6655&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 413 location nan, Kenya
+https://api.aerisapi.com/observations/summary/closest?p=-0.0236,37.9062&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 414 location nan, Antigua and Barbuda
+https://api.aerisapi.com/observations/summary/closest?p=17.0608,-61.7964&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 415 location Alabama, US
+https://api.aerisapi.com/observations/summary/closest?p=32.3182,-86.9023&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 416 location nan, Uruguay
+https://api.aerisapi.com/observations/summary/closest?p=-32.5228,-55.7658&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 417 location nan, Ghana
+https://api.aerisapi.com/observations/summary/closest?p=7.9465,-1.0232&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 418 location Puerto Rico, US
+https://api.aerisapi.com/observations/summary/closest?p=18.2208,-66.5901&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 419 location nan, Namibia
+https://api.aerisapi.com/observations/summary/closest?p=-22.9576,18.4904&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 420 location nan, Seychelles
+https://api.aerisapi.com/observations/summary/closest?p=-4.6796,55.492&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 421 location nan, Trinidad and Tobago
+https://api.aerisapi.com/observations/summary/closest?p=10.6918,-61.2225&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 422 location nan, Venezuela
+https://api.aerisapi.com/observations/summary/closest?p=6.4238,-66.5897&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 423 location nan, Eswatini
+https://api.aerisapi.com/observations/summary/closest?p=-26.5225,31.4659&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 424 location nan, Gabon
+https://api.aerisapi.com/observations/summary/closest?p=-0.8037,11.6094&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 425 location nan, Guatemala
+https://api.aerisapi.com/observations/summary/closest?p=15.7835,-90.2308&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 426 location nan, Mauritania
+https://api.aerisapi.com/observations/summary/closest?p=21.0079,10.9408&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 427 location nan, Rwanda
+https://api.aerisapi.com/observations/summary/closest?p=-1.9403,29.8739&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 428 location nan, Saint Lucia
+https://api.aerisapi.com/observations/summary/closest?p=13.9094,-60.9789&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 429 location nan, Saint Vincent and the Grenadines
+https://api.aerisapi.com/observations/summary/closest?p=12.9843,-61.2872&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 430 location nan, Suriname
+https://api.aerisapi.com/observations/summary/closest?p=3.9193,-56.0278&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 431 location French Guiana, France
+https://api.aerisapi.com/observations/summary/closest?p=3.9339,-53.1258&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 432 location Guam, US
+https://api.aerisapi.com/observations/summary/closest?p=13.4443,144.7937&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 433 location nan, Kosovo
+https://api.aerisapi.com/observations/summary/closest?p=42.6026,20.903000000000002&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 434 location Newfoundland and Labrador, Canada
+https://api.aerisapi.com/observations/summary/closest?p=53.1355,-57.6604&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 435 location Prince Edward Island, Canada
+https://api.aerisapi.com/observations/summary/closest?p=46.5107,-63.4168&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 436 location nan, Central African Republic
+https://api.aerisapi.com/observations/summary/closest?p=6.6111,20.9394&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 437 location nan, Congo (Kinshasa)
+https://api.aerisapi.com/observations/summary/closest?p=-4.0383,21.7587&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 438 location nan, Equatorial Guinea
+https://api.aerisapi.com/observations/summary/closest?p=1.5,10.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 439 location Mayotte, France
+https://api.aerisapi.com/observations/summary/closest?p=-12.8275,45.1662&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 440 location nan, Uzbekistan
+https://api.aerisapi.com/observations/summary/closest?p=41.3775,64.5853&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 441 location Netherlands, Netherlands
+https://api.aerisapi.com/observations/summary/closest?p=52.1326,5.2913&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 442 location Nova Scotia, Canada
+https://api.aerisapi.com/observations/summary/closest?p=44.681999999999995,-63.7443&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 443 location Guadeloupe, France
+https://api.aerisapi.com/observations/summary/closest?p=16.25,-61.5833&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 444 location nan, Benin
+https://api.aerisapi.com/observations/summary/closest?p=9.3077,2.3158&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 445 location nan, Liberia
+https://api.aerisapi.com/observations/summary/closest?p=6.4281,-9.4295&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 446 location Curacao, Netherlands
+https://api.aerisapi.com/observations/summary/closest?p=12.1696,-68.99&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 447 location nan, Somalia
+https://api.aerisapi.com/observations/summary/closest?p=5.1521,46.1996&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 448 location nan, Tanzania
+https://api.aerisapi.com/observations/summary/closest?p=-6.369,34.8888&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 449 location Virgin Islands, US
+https://api.aerisapi.com/observations/summary/closest?p=18.3358,-64.8963&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 450 location Cayman Islands, United Kingdom
+https://api.aerisapi.com/observations/summary/closest?p=19.3133,-81.2546&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 451 location Reunion, France
+https://api.aerisapi.com/observations/summary/closest?p=-21.1351,55.2471&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 452 location nan, Barbados
+https://api.aerisapi.com/observations/summary/closest?p=13.1939,-59.5432&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 453 location nan, Montenegro
+https://api.aerisapi.com/observations/summary/closest?p=42.5,19.3&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 454 location nan, Kyrgyzstan
+https://api.aerisapi.com/observations/summary/closest?p=41.2044,74.7661&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 455 location nan, Mauritius
+https://api.aerisapi.com/observations/summary/closest?p=-20.2,57.5&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 456 location Aruba, Netherlands
+https://api.aerisapi.com/observations/summary/closest?p=12.5186,-70.0358&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 457 location nan, Zambia
+https://api.aerisapi.com/observations/summary/closest?p=-15.4167,28.2833&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 458 location nan, Djibouti
+https://api.aerisapi.com/observations/summary/closest?p=11.8251,42.5903&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 459 location nan, Gambia, The
+https://api.aerisapi.com/observations/summary/closest?p=13.4432,-15.3101&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 460 location Montserrat, United Kingdom
+https://api.aerisapi.com/observations/summary/closest?p=16.7425,-62.1874&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 461 location nan, Bahamas, The
+https://api.aerisapi.com/observations/summary/closest?p=25.0343,-77.3963&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 462 location Greenland, Denmark
+https://api.aerisapi.com/observations/summary/closest?p=71.7069,-42.6043&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 463 location New Caledonia, France
+https://api.aerisapi.com/observations/summary/closest?p=-20.9043,165.618&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 464 location Bermuda, United Kingdom
+https://api.aerisapi.com/observations/summary/closest?p=32.3078,-64.7505&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+successNo data found for United Kingdom, Bermuda at 03/26/2020
+{'code': 'warn_invalid_param', 'description': 'Invalid from parameter has been adjusted.'}
+
+collecting for 465 location nan, Chad
+https://api.aerisapi.com/observations/summary/closest?p=15.4542,18.7322&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 466 location nan, El Salvador
+https://api.aerisapi.com/observations/summary/closest?p=13.7942,-88.8965&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 467 location nan, Fiji
+https://api.aerisapi.com/observations/summary/closest?p=-17.7134,178.065&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 468 location nan, Nicaragua
+https://api.aerisapi.com/observations/summary/closest?p=12.8654,-85.2072&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 469 location nan, Madagascar
+https://api.aerisapi.com/observations/summary/closest?p=-18.7669,46.8691&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 470 location nan, Haiti
+https://api.aerisapi.com/observations/summary/closest?p=18.9712,-72.2852&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 471 location nan, Angola
+https://api.aerisapi.com/observations/summary/closest?p=-11.2027,17.8739&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 472 location nan, Cabo Verde
+https://api.aerisapi.com/observations/summary/closest?p=16.5388,-23.0418&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 473 location Sint Maarten, Netherlands
+https://api.aerisapi.com/observations/summary/closest?p=18.0425,-63.0548&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 474 location nan, Niger
+https://api.aerisapi.com/observations/summary/closest?p=17.6078,8.0817&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 475 location nan, Papua New Guinea
+https://api.aerisapi.com/observations/summary/closest?p=-6.315,143.9555&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 476 location Isle of Man, United Kingdom
+https://api.aerisapi.com/observations/summary/closest?p=54.2361,-4.5481&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 477 location nan, Zimbabwe
+https://api.aerisapi.com/observations/summary/closest?p=-20.0,30.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 478 location Northwest Territories, Canada
+https://api.aerisapi.com/observations/summary/closest?p=64.8255,-124.8457&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 479 location nan, Cape Verde
+https://api.aerisapi.com/observations/summary/closest?p=15.1111,-23.6167&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 480 location nan, East Timor
+https://api.aerisapi.com/observations/summary/closest?p=-8.55,125.56&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 481 location nan, Eritrea
+https://api.aerisapi.com/observations/summary/closest?p=15.1794,39.7823&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 482 location nan, Uganda
+https://api.aerisapi.com/observations/summary/closest?p=1.0,32.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 483 location nan, Dominica
+https://api.aerisapi.com/observations/summary/closest?p=15.415,-61.371&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 484 location nan, Grenada
+https://api.aerisapi.com/observations/summary/closest?p=12.1165,-61.678999999999995&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 485 location nan, Mozambique
+https://api.aerisapi.com/observations/summary/closest?p=-18.6657,35.5296&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 486 location nan, Syria
+https://api.aerisapi.com/observations/summary/closest?p=34.8021,38.9968&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 487 location nan, Timor-Leste
+https://api.aerisapi.com/observations/summary/closest?p=-8.8742,125.7275&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 488 location nan, Guadeloupe
+https://api.aerisapi.com/observations/summary/closest?p=16.265,-61.551&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 489 location nan, Reunion
+https://api.aerisapi.com/observations/summary/closest?p=-21.1151,55.5364&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 490 location French Guiana, France
+https://api.aerisapi.com/observations/summary/closest?p=3.9339,-53.1258&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 491 location Mayotte, France
+https://api.aerisapi.com/observations/summary/closest?p=-12.8275,45.1662&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 492 location Virgin Islands, US
+https://api.aerisapi.com/observations/summary/closest?p=18.3358,-64.8963&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 493 location US, US
+https://api.aerisapi.com/observations/summary/closest?p=37.0902,-95.7129&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 494 location nan, Greenland
+https://api.aerisapi.com/observations/summary/closest?p=72.0,-40.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 495 location Guam, US
+https://api.aerisapi.com/observations/summary/closest?p=13.4443,144.7937&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 496 location nan, Guernsey
+https://api.aerisapi.com/observations/summary/closest?p=49.45,-2.58&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 497 location nan, Jersey
+https://api.aerisapi.com/observations/summary/closest?p=49.19,-2.11&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 498 location nan, Puerto Rico
+https://api.aerisapi.com/observations/summary/closest?p=18.2,-66.5&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 499 location nan, Republic of the Congo
+https://api.aerisapi.com/observations/summary/closest?p=-1.44,15.556&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 500 location nan, The Bahamas
+https://api.aerisapi.com/observations/summary/closest?p=24.25,-76.0&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
+collecting for 501 location nan, The Gambia
+https://api.aerisapi.com/observations/summary/closest?p=13.4667,-16.6&from=02/24/2020&to=03/23/2020&radius=350miles&plimit=31&limit=1&client_id=vv2IYjrS6kv2D52249jl9&client_secret=ZbwMRSbTTYKsqBsQRkYyoquHjq2Enr1gkaXHxC33
+success
