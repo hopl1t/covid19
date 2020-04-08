@@ -1,0 +1,6 @@
+collecting for 1 location Tasmania, Australia
+interval: 01/22/2020-02/01/2020
+https://api.aerisapi.com/observations/summary/closest?p=-41.4545,145.9707&from=01/22/2020&to=02/01/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaM
+
+success
+1/22/2020
