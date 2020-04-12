@@ -1,4 +1,4 @@
-﻿Country,2018
+Data Source,
 Aruba,
 Afghanistan,520.8966027
 Angola,3432.385736
@@ -109,7 +109,7 @@ Isle of Man,
 India,2009.978857
 Not classified,
 Ireland,78806.432
-"Iran, Islamic Rep.",
+"Iran, Islamic Rep.",5417
 Iraq,5834.166211
 Iceland,73191.11632
 Israel,41715.02928
@@ -134,7 +134,7 @@ St. Lucia,10566.04975
 Latin America & Caribbean,9044.215879
 Least developed countries: UN classification,1054.451499
 Low income,833.8758761
-Liechtenstein,
+Liechtenstein,179175
 Sri Lanka,4102.48135
 Lower middle income,2217.093928
 Low & middle income,4971.148677
@@ -209,7 +209,7 @@ Singapore,64581.94402
 Solomon Islands,2137.690695
 Sierra Leone,533.9911843
 El Salvador,4058.252439
-San Marino,
+San Marino,48948
 Somalia,314.5441657
 Serbia,7246.731656
 Sub-Saharan Africa (excluding high income),1584.438234
@@ -251,9 +251,9 @@ Uruguay,17277.97011
 United States,62794.58565
 Uzbekistan,1532.371677
 St. Vincent and the Grenadines,7361.400962
-"Venezuela, RB",
+"Venezuela, RB",3411
 British Virgin Islands,
-Virgin Islands (U.S.),
+Virgin Islands (U.S.),35938
 Vietnam,2566.59695
 Vanuatu,3123.893396
 World,11312.43993
@@ -263,3 +263,4 @@ Kosovo,4302.276483
 South Africa,6374.028196
 Zambia,1539.900158
 Zimbabwe,2146.996385
+Taiwan,25008
