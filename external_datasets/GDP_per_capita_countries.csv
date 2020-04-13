@@ -1,4 +1,4 @@
-Data Source,
+﻿Country,2018
 Aruba,
 Afghanistan,520.8966027
 Angola,3432.385736
@@ -66,7 +66,7 @@ Europe & Central Asia,25107.27442
 Ecuador,6344.871979
 "Egypt, Arab Rep.",2549.132252
 Euro area,39927.61759
-Eritrea,
+Eritrea,396
 Spain,30370.89233
 Estonia,23266.34627
 Ethiopia,772.3135303
@@ -224,7 +224,7 @@ Sweden,54608.36025
 Eswatini,4145.974112
 Sint Maarten (Dutch part),
 Seychelles,16433.93529
-Syrian Arab Republic,
+Syrian Arab Republic,890
 Turks and Caicos Islands,27142.2278
 Chad,728.3432354
 East Asia & Pacific (IDA & IBRD countries),7905.035148
@@ -251,9 +251,9 @@ Uruguay,17277.97011
 United States,62794.58565
 Uzbekistan,1532.371677
 St. Vincent and the Grenadines,7361.400962
-"Venezuela, RB",3411
-British Virgin Islands,
-Virgin Islands (U.S.),35938
+"Venezuela, RB",7361.400962
+British Virgin Islands,3411
+Virgin Islands (U.S.),
 Vietnam,2566.59695
 Vanuatu,3123.893396
 World,11312.43993
@@ -263,4 +263,7 @@ Kosovo,4302.276483
 South Africa,6374.028196
 Zambia,1539.900158
 Zimbabwe,2146.996385
+Laos,1789
 Taiwan,25008
+Western Sahara,2500
+Holy See,21198
