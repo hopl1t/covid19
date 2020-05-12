@@ -1,0 +1,113 @@
+
+collecting for 1 location Tasmania, Australia from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-41.4545,145.9707&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 2 location nan, New Zealand from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-40.9006,174.886&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 3 location nan, Argentina from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-38.4161,-63.6167&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 4 location Victoria, Australia from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-37.8136,144.9631&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 5 location nan, Chile from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-35.6751,-71.543&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 6 location Australian Capital Territory, Australia from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-35.4735,149.0124&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 7 location South Australia, Australia from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-34.9285,138.6007&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 8 location New South Wales, Australia from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-33.8688,151.2093&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 9 location nan, Uruguay from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-32.5228,-55.7658&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 10 location Western Australia, Australia from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-31.9505,115.8605&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 11 location nan, South Africa from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-30.5595,22.9375&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 12 location Queensland, Australia from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-28.0167,153.4&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 13 location nan, Paraguay from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-23.4425,-58.4438&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 14 location Reunion, France from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-21.1351,55.2471&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 15 location nan, Mauritius from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-20.2,57.5&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 16 location nan, Madagascar from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-18.7669,46.8691&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 17 location French Polynesia, France from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-17.6797,149.4068&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 18 location nan, Bolivia from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-16.2902,-63.5887&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 19 location nan, Zambia from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-15.4167,28.2833&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 20 location nan, Brazil from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-14.235,-51.9253&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 21 location Mayotte, France from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-12.8275,45.1662&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 22 location Northern Territory, Australia from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-12.4634,130.8456&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 23 location nan, Peru from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-9.19,-75.0152&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 24 location nan, Tanzania from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-6.369,34.8888&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 25 location nan, Congo (Kinshasa) from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-4.0383,21.7587&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 26 location nan, Congo (Brazzaville) from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-4.03829,21.7587&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 27 location nan, Rwanda from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-1.9403,29.8739&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 28 location nan, Ecuador from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-1.8312,-78.1834&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 29 location nan, Gabon from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-0.8037,11.6094&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 30 location nan, Indonesia from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-0.7893,113.9213&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 31 location nan, Kenya from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=-0.0236,37.9062&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 32 location nan, Uganda from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=1.0,32.0&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 33 location nan, Singapore from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=1.2833,103.8333&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 34 location nan, Malaysia from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=2.5,112.5&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 35 location nan, Cameroon from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=3.848,11.5021&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 36 location French Guiana, France from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=3.9339,-53.1258&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 37 location nan, Brunei from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=4.5353,114.7277&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 38 location nan, Colombia from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=4.5709,-74.2973&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 39 location nan, Guyana from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=5.0,-58.75&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 40 location nan, Venezuela from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=6.4238,-66.5897&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 41 location nan, Sri Lanka from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=7.0,81.0&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 42 location nan, Cote d'Ivoire from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=7.54,-5.5471&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 43 location nan, Ghana from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=7.9465,-1.0232&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 44 location nan, Panama from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=8.538,-80.7821&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 45 location nan, Togo from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=8.6195,0.8248&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 46 location nan, Nigeria from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=9.082,8.6753&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 47 location nan, Ethiopia from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=9.145,40.4897&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 48 location nan, Benin from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=9.3077,2.3158&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 49 location nan, Costa Rica from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=9.7489,-83.7534&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 50 location nan, Guinea from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=9.9456,-9.6966&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 51 location nan, Trinidad and Tobago from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=10.6918,-61.2225&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 52 location nan, Cambodia from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=11.55,104.9167&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 53 location nan, Guinea-Bissau from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=11.8037,-15.1804&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 54 location nan, Djibouti from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=11.8251,42.5903&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 55 location nan, Burkina Faso from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=12.2383,-1.5616&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaMFailed
+collecting for 56 location Aruba, Netherlands from 4/8/2020 to 4/19/2020
+https://api.aerisapi.com/observations/summary/closest?p=12.5186,-70.0358&from=4/8/2020&to=4/19/2020&radius=350miles&plimit=31&limit=1&client_id=tXyXXyb3Yf492X1asICz5&client_secret=WJi1enKSDGlhO8Nt4Ze00C1F6LEdMpl2O54JIwaM
