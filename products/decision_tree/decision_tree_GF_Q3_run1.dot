@@ -1,8 +1,16 @@
 digraph Tree {
 node [shape=box] ;
-0 [label="Urbanization <= 96.5\nmse = 0.005\nsamples = 125\nvalue = 0.272"] ;
-1 [label="mse = 0.004\nsamples = 121\nvalue = 0.276"] ;
+0 [label="tmp**2 <= 166.834\nmse = 0.001\nsamples = 81\nvalue = 0.12"] ;
+1 [label="tmp*rh <= 845.69\nmse = 0.001\nsamples = 45\nvalue = 0.13"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
-2 [label="mse = 0.002\nsamples = 4\nvalue = 0.163"] ;
-0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+2 [label="mse = 0.001\nsamples = 44\nvalue = 0.128"] ;
+1 -> 2 ;
+3 [label="mse = -0.0\nsamples = 1\nvalue = 0.214"] ;
+1 -> 3 ;
+4 [label="avg_interval_tmp <= 23.917\nmse = 0.001\nsamples = 36\nvalue = 0.108"] ;
+0 -> 4 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+5 [label="mse = 0.001\nsamples = 25\nvalue = 0.1"] ;
+4 -> 5 ;
+6 [label="mse = 0.001\nsamples = 11\nvalue = 0.127"] ;
+4 -> 6 ;
 }
