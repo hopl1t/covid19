@@ -1,16 +1,12 @@
 digraph Tree {
 node [shape=box] ;
-0 [label="tmp*rh <= 781.003\nmse = 0.004\nsamples = 74\nvalue = 0.13"] ;
-1 [label="tmp*rh <= 578.744\nmse = 0.003\nsamples = 44\nvalue = 0.148"] ;
+0 [label="tpc*max_cases <= 12.205\nmse = 0.001\nsamples = 279\nvalue = 0.045"] ;
+1 [label="tmp*rh <= 861.769\nmse = 0.0\nsamples = 208\nvalue = 0.041"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
-2 [label="mse = 0.002\nsamples = 27\nvalue = 0.123"] ;
+2 [label="mse = 0.0\nsamples = 125\nvalue = 0.045"] ;
 1 -> 2 ;
-3 [label="mse = 0.001\nsamples = 17\nvalue = 0.188"] ;
+3 [label="mse = 0.0\nsamples = 83\nvalue = 0.035"] ;
 1 -> 3 ;
-4 [label="avg_interval_tmp <= 23.417\nmse = 0.004\nsamples = 30\nvalue = 0.105"] ;
+4 [label="mse = 0.001\nsamples = 71\nvalue = 0.055"] ;
 0 -> 4 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
-5 [label="mse = 0.003\nsamples = 22\nvalue = 0.09"] ;
-4 -> 5 ;
-6 [label="mse = 0.004\nsamples = 8\nvalue = 0.147"] ;
-4 -> 6 ;
 }

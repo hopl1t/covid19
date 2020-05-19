@@ -1,0 +1,32 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="tmp**2 <= 405.338\nmse = 2.726\nsamples = 27\nvalue = 3.915"] ;
+1 [label="Urbanization <= 94.85\nmse = 2.226\nsamples = 24\nvalue = 4.209"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="avg_interval_RH <= 66.727\nmse = 1.861\nsamples = 23\nvalue = 4.07"] ;
+1 -> 2 ;
+3 [label="Urbanization <= 89.995\nmse = 1.785\nsamples = 19\nvalue = 4.33"] ;
+2 -> 3 ;
+4 [label="mse = 0.773\nsamples = 5\nvalue = 5.689"] ;
+3 -> 4 ;
+5 [label="tmp*rh <= 625.798\nmse = 1.252\nsamples = 14\nvalue = 3.845"] ;
+3 -> 5 ;
+6 [label="mse = 0.148\nsamples = 4\nvalue = 2.715"] ;
+5 -> 6 ;
+7 [label="avg_interval_RH <= 58.107\nmse = 0.979\nsamples = 10\nvalue = 4.296"] ;
+5 -> 7 ;
+8 [label="mse = 0.003\nsamples = 2\nvalue = 5.489"] ;
+7 -> 8 ;
+9 [label="avg_interval_RH <= 64.121\nmse = 0.779\nsamples = 8\nvalue = 3.998"] ;
+7 -> 9 ;
+10 [label="mse = 0.319\nsamples = 6\nvalue = 3.599"] ;
+9 -> 10 ;
+11 [label="mse = 0.245\nsamples = 2\nvalue = 5.197"] ;
+9 -> 11 ;
+12 [label="mse = 0.383\nsamples = 4\nvalue = 2.838"] ;
+2 -> 12 ;
+13 [label="mse = -0.0\nsamples = 1\nvalue = 7.399"] ;
+1 -> 13 ;
+14 [label="mse = 0.472\nsamples = 3\nvalue = 1.558"] ;
+0 -> 14 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}

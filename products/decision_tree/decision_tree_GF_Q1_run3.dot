@@ -1,12 +1,12 @@
 digraph Tree {
 node [shape=box] ;
-0 [label="tmp*rh <= 682.654\nmse = 0.001\nsamples = 104\nvalue = 0.092"] ;
-1 [label="Urbanization <= 94.45\nmse = 0.001\nsamples = 50\nvalue = 0.112"] ;
+0 [label="avg_interval_RH <= 66.727\nmse = 0.0\nsamples = 27\nvalue = 0.03"] ;
+1 [label="avg_interval_RH <= 57.232\nmse = 0.0\nsamples = 22\nvalue = 0.033"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
-2 [label="mse = 0.001\nsamples = 33\nvalue = 0.098"] ;
+2 [label="mse = 0.0\nsamples = 2\nvalue = 0.017"] ;
 1 -> 2 ;
-3 [label="mse = 0.001\nsamples = 17\nvalue = 0.138"] ;
+3 [label="mse = 0.0\nsamples = 20\nvalue = 0.034"] ;
 1 -> 3 ;
-4 [label="mse = 0.001\nsamples = 54\nvalue = 0.074"] ;
+4 [label="mse = 0.0\nsamples = 5\nvalue = 0.02"] ;
 0 -> 4 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
 }

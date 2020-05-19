@@ -1,0 +1,8 @@
+digraph Tree {
+node [shape=box] ;
+0 [label="avg_mobility <= 18.114\nmse = 33.453\nsamples = 80\nvalue = 16.571"] ;
+1 [label="mse = 22.626\nsamples = 20\nvalue = 10.768"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="mse = 22.1\nsamples = 60\nvalue = 18.505"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+}

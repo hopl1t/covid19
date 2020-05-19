@@ -1,24 +1,8 @@
 digraph Tree {
 node [shape=box] ;
-0 [label="Median Age <= 39.15\nmse = 0.002\nsamples = 122\nvalue = 0.157"] ;
-1 [label="avg_interval_RH <= 46.065\nmse = 0.002\nsamples = 54\nvalue = 0.143"] ;
+0 [label="tpc*max_cases <= 0.835\nmse = 0.0\nsamples = 939\nvalue = 0.047"] ;
+1 [label="mse = 0.0\nsamples = 485\nvalue = 0.043"] ;
 0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
-2 [label="mse = 0.001\nsamples = 9\nvalue = 0.18"] ;
-1 -> 2 ;
-3 [label="avg_interval_RH <= 54.345\nmse = 0.002\nsamples = 45\nvalue = 0.135"] ;
-1 -> 3 ;
-4 [label="mse = 0.0\nsamples = 3\nvalue = 0.07"] ;
-3 -> 4 ;
-5 [label="mse = 0.002\nsamples = 42\nvalue = 0.14"] ;
-3 -> 5 ;
-6 [label="avg_interval_tmp <= 10.575\nmse = 0.001\nsamples = 68\nvalue = 0.168"] ;
-0 -> 6 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
-7 [label="mse = 0.001\nsamples = 34\nvalue = 0.182"] ;
-6 -> 7 ;
-8 [label="tmp**2 <= 541.182\nmse = 0.001\nsamples = 34\nvalue = 0.154"] ;
-6 -> 8 ;
-9 [label="mse = 0.001\nsamples = 21\nvalue = 0.137"] ;
-8 -> 9 ;
-10 [label="mse = 0.001\nsamples = 13\nvalue = 0.181"] ;
-8 -> 10 ;
+2 [label="mse = 0.0\nsamples = 454\nvalue = 0.051"] ;
+0 -> 2 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
 }
